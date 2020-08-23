@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Yejin Lee ✨
 
 <!--
 **cryingjin/cryingjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Education
+Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.02 (Expected)   
+
+🔭 Internship  
+Daewoong 2020.07 ~ 2020.  
+
+✨ Publication  
+나에게 있는건 조럽논문 뿐  
+
+⚡ Interests  
+Statistical Analysis  
+Statistical Machine Learning  
+Deep Learning
+
+📫 Contact
+jinjin960318@gmail.com  
+https://jxnjxn.tistory.com/
