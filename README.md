@@ -29,6 +29,6 @@ Statistical Analysis
 Statistical Machine Learning  
 Deep Learning
 
-📫 Contact
+📫 Contact  
 jinjin960318@gmail.com  
 https://jxnjxn.tistory.com/
