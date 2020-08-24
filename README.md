@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 Education
-Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.02 (Expected)   
+Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.02 (Expected) 원함   
 
 🔭 Internship  
 Daewoong 2020.07 ~ 2020.  
