@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+    
 🎓 Education  
-Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.02 (Expected) 원함   
-
+Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.08 (Expected)   
+    
 🔭 Internship  
-Daewoong 2020.07 ~ 2020.  
+Daewoong 2020.07 ~ 2020.08    
 
 ✨ Publication  
 나에게 있는건 조럽논문 뿐  
