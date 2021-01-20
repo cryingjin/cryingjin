@@ -16,23 +16,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
     
-🎓 Education
-Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.08 (Expected)
+🎓 Education  
+Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.08 (Expected)  
 
-🔭 Internship
-Daewoong 2020.07 ~ 2020.08
+  
+🔭 Internship  
+Daewoong 2020.07 ~ 2020.08  
 
-📖 Publication
-산업공학과 졸업논문
+  
+📖 Publication  
+산업공학과 졸업논문  
+  
+  
+💻 Other experience  
+빅데이터 연합동아리 투빅스 13기 2020.01 ~ 2021.01  
 
-💻 Other experience
-빅데이터 연합동아리 투빅스 13기 2020.01 ~ 2021.01
+  
+⚡ Interests  
+Statistical Analysis  
+Statistical Machine Learning  
+Deep Learning (especially NLP)  
 
-⚡ Interests
-Statistical Analysis
-Statistical Machine Learning
-Deep Learning (especially NLP)
-
-📫 Contact
-jinjin960318@gmail.com
-https://jxnjxn.tistory.com/
+    
+📫 Contact  
+jinjin960318@gmail.com  
+https://jxnjxn.tistory.com/  
