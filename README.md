@@ -15,29 +15,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    
-🎓 Education  
-Undergraduate Student in School of Statistics & Industrial Engineering, Konkuk University 2017.03 ~ 2021.08 (Expected)  
 
+I finally got my Bachelor's degree and graduated from University!  
+(major : Applied Statistics & Industrial Engineering)
   
+But I want to study NLP more, so I'm going to my "Master's degree".
+  
+I will do more research on natural language processing in Konkuk University's [Natural language processing lab](http://nlp.konkuk.ac.kr/)
+
 🔭 Internship  
-Daewoong 2020.07 ~ 2020.08  
+Daewoong 2020.07 ~ 2020.08
 
-  
-📖 Publication  
-산업공학과 졸업논문  
-  
-  
-💻 Other experience  
-빅데이터 연합동아리 투빅스 13기 2020.01 ~ 2021.01  
+💻Other experience  
+빅데이터 연합동아리 투빅스 13기 
 
-  
-⚡ Interests  
+⚡ Interests   
+Natural Language Processing   
 Statistical Analysis  
 Statistical Machine Learning  
-Deep Learning (especially NLP)  
 
-    
+
 📫 Contact  
 jinjin960318@gmail.com  
-https://jxnjxn.tistory.com/  
+https://jxnjxn.tistory.com
+
