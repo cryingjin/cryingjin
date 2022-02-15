@@ -16,26 +16,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I finally got my Bachelor's degree and graduated from University!  
+I finally got my Bachelor's degree and graduated from University! 😂  
 (major : Applied Statistics & Industrial Engineering)
   
-But I want to study NLP more, so I'm going to my "Master's degree".
+But I want to study NLP more, so I'm going to my "Master's degree" 😎
   
-I will do more research on natural language processing in Konkuk University's [Natural language processing lab](http://nlp.konkuk.ac.kr/)
+I will do more research on natural language processing in [Natural Language Processing Lab](http://nlp.konkuk.ac.kr/), Konkuk University
 
-🔭 Internship  
-Daewoong 2020.07 ~ 2020.08
+🌱 Internship  
+* Daewoong(Daewoong Pharmaceutical Co.,Ltd) 2020.07 ~ 2020.08
 
-💻Other experience  
-빅데이터 연합동아리 투빅스 13기 
+🌱 Other experience  
+* ToBig's 13th  
 
-⚡ Interests   
-Natural Language Processing   
-Statistical Analysis  
-Statistical Machine Learning  
+🌱 Interests   
+* Knowledge-intensive tasks  
+* Information Retrieval  
+* Natural Language Processing  
+
+* Statistical Analysis    
 
 
 📫 Contact  
-jinjin960318@gmail.com  
-https://jxnjxn.tistory.com
+* jinjin960318@gmail.com  
+* jinjin096@konkuk.ac.kr
+
+* https://jxnjxn.tistory.com
 
