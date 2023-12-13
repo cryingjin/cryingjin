@@ -16,30 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I finally got my Bachelor's degree and graduated from University! 😂  
-(major : Applied Statistics & Industrial Engineering)
-  
-But I want to study NLP more, so I'm going to my "Master's degree" 😎
-  
-I will do more research on natural language processing in [Natural Language Processing Lab](http://nlp.konkuk.ac.kr/), Konkuk University
+Hello, I'm Yejin Lee, an NLP enthusiast and [slow thinker](https://youtu.be/PCSYBERVjZs?si=3R9PVIzEf5HF-Wlo).
 
-🌱 Internship  
-* Daewoong(Daewoong Pharmaceutical Co.,Ltd) 2020.07 ~ 2020.08
-
-🌱 Other experience  
-* ToBig's 13th  
-
-🌱 Interests   
-* Knowledge-intensive tasks  
-* Information Retrieval  
-* Natural Language Processing  
-
-* Statistical Analysis    
-
+🌱 Research Interests   
+* Document AI
+* Natural Language Understanding
+* Discourse Analysis
 
 📫 Contact  
 * jinjin960318@gmail.com  
-* jinjin096@konkuk.ac.kr
 
 * https://jxnjxn.tistory.com
 
